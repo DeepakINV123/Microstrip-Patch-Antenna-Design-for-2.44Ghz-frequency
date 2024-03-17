@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2022.4 - Apr 26 2022 - ACIS 31.0.1 - Learning Edition
+[Author]
+Sandeep
+[Mesh Cells]
+39,744
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:antenna_2.4_planar_1.cst?990b0e477af8830bc74dbb21acf5030e?31617:numberofparameters=7:port=1>mode=1>zre=0>zim=0:::l?lg?w?wf?wg?h?t
+[Comment]

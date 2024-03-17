@@ -1,0 +1,25 @@
+Important Specifications :
+
+Length of Antenna 
+Material of antenna
+Area of antenna cross-section (patch size)
+Frequency band
+Resonant frequency (Centre Frequency)
+Impedance
+Operating temperature
+Reflectance maximum
+material's effective dielectric constant
+Operating frequency
+SAR value
+Reflectance vs Frequency graph
+Transmittance vs Frequency graph
+Dielectric substrate height
+Type of Feeding method
+Loss tangent
+VSWR 
+Patch material
+Maximum Gain
+Azimuth beam width
+Elevation beam width
+
+ 

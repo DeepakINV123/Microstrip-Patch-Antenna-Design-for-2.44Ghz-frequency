@@ -1,0 +1,45 @@
+{
+    "parameters": [
+        {
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "expr": "57",
+            "name": "L",
+            "value": "57"
+        },
+        {
+            "expr": "2*L",
+            "name": "Lg",
+            "value": "114"
+        },
+        {
+            "expr": "0.05",
+            "name": "t",
+            "value": "0.05"
+        },
+        {
+            "expr": "46.0",
+            "name": "W",
+            "value": "46.0"
+        },
+        {
+            "expr": "2*W",
+            "name": "Wg",
+            "value": "92"
+        },
+        {
+            "expr": "3.137",
+            "name": "Wf",
+            "value": "3.137"
+        },
+        {
+            "expr": "3/2",
+            "name": "CTE",
+            "value": "1.5"
+        }
+    ],
+    "version": 1
+}
